@@ -5,8 +5,10 @@ def solution(s):
     a=[]
     a=list(map(int,s.split(" ")))
 
-    answer+=str(min(a))
-    answer+=' '
-    answer+=str(max(a))
+    # answer+=str(min(a))
+    # answer+=' '
+    # answer+=str(max(a))
+    
+    answer=str(min(a))+' '+str(max(a))
 
     return answer
