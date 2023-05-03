@@ -1,6 +1,6 @@
 // 프로그래머스 - 레벨2 - 최댓값과 최솟값
 
-// sstream을 사용해 공백을 기준으로 숫자를 추출해 풀이함.
+// sstream을 사용해 공백을 기준으로 숫자를 추출해 풀이했다.
 
 #include <string>
 #include <vector>
