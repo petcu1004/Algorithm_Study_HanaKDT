@@ -1,5 +1,5 @@
 # Algorithm_Study_HanaKDT
-### 알고리즘 스터디
+### 알고리즘 스터디 규칙
 
 프로그래머스, 백준, 코드업, SW Expert Academy 등 여러 코테 문제를 풀 수 있습니다.
 
@@ -9,6 +9,13 @@
 
 자유롭게 알고리즘 및 코딩테스트 공부
 
+
+### PR Convention
+- `n주차 - [문제 제목]`
+### Commit Convention
+
+- 문제 파일 추가 시 : `Add: [문제 제목]`
+- 기존 코드 수정 시 : `Modify: [문제 제목]`
 -----
 
 
