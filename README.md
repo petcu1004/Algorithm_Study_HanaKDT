@@ -21,7 +21,7 @@
 
 - 1주차(05.02~5.07)
 
-|05.02 (월)|05.03(화)|05.04(수)|05.05(목)|05.06(금)|
+|05.01 (월)|05.02(화)|05.03(수)|05.04(목)|05.05(금)|
 |-------|-----|-----|-----|-----|
 |X|X|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)|
 
