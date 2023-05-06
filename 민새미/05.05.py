@@ -1,25 +1,21 @@
 # 인사성 밝은 곰곰이
-## 시간 초과 문제를 해시로 해결함.
+## 시간 초과 문제를 집합으로 해결함.
+import sys
+
+input = sys.stdin.readline
 
 n=int(input())
-
-dic ={}
+s=set() #애초에 중복 허용 X
 cnt=0
+input() #ENTER
 
-for _ in range(n):
-    a=input()
-
-    if a=="ENTER":
-        for key, value in dic.items():
-            if value==1:
-                cnt+=1
-        dic={}
+for i in range(n-1):
+    user=input().strip()#공백 없게 넣을 수 있도록 strip()함수 사용
+    if user=="ENTER":
+        cnt+=len(s)
+        s.clear()
     else:
-        if a not in dic: #중복되는 닉네임이 없을 경우
-            dic[a]=1 #그에 맞는 value값을 1로 설정
-    
-for key, value in dic.items():
-    if value==1:
-        cnt+=1
+        s.add(user)
+cnt+=len(s)
 
 print(cnt)
