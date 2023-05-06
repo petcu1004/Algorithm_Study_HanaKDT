@@ -1,7 +1,6 @@
 from collections import defaultdict
 N = int(input())
 answer = 0
-
 for _ in range(N):
     words = input()
     if words == 'ENTER':
