@@ -1,3 +1,6 @@
+# 인사성 밝은 곰곰이
+## 시간 초과 문제 발생하는 코드
+
 n=int(input())
 
 m=[]
@@ -17,9 +20,6 @@ for i in range(n):
                 if a==j: #똑같은 닉네임이 있다면?
                     break
                 
-                print(m)
                 m.append(a)
                 cnt+=1
-
-
 print(cnt)
