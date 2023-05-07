@@ -26,3 +26,7 @@
 |X|X|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)|
 
 - 2주차(05.08~5.14)
+
+|05.08 (월)|05.09(화)|05.10(수)|05.11(목)|05.12(금)|
+|-------|-----|-----|-----|-----|
+|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[트리 순회](https://www.acmicpc.net/problem/1991)|[1 2 3 더하기](https://www.acmicpc.net/problem/9095)|[ATM](https://www.acmicpc.net/problem/11399)|
