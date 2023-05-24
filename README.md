@@ -30,3 +30,7 @@
 |05.08 (월)|05.09(화)|05.10(수)|05.11(목)|05.12(금)|
 |-------|-----|-----|-----|-----|
 |[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[섬의 개수](https://www.acmicpc.net/problem/4963)|[트리 순회](https://www.acmicpc.net/problem/1991)|[1 2 3 더하기](https://www.acmicpc.net/problem/9095)|[ATM](https://www.acmicpc.net/problem/11399)|
+
+
+-----
+다른 스터디가 지정되어 스터디 중지..
